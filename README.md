@@ -41,3 +41,4 @@ implementei algumas funções que podem ser testadas no Remix, são elas:
 - Comprar eth com gamatoken
 - Restock (apenas pelo owner)
 - Withdraw (apenas pelo owner)
+- Minimum buy
